@@ -2,7 +2,7 @@
 
 ## Set up the language understanding
 
-1. Go to [Luis.ai](Luis.ai)
+1. Go to [Luis.ai](http://Luis.ai)
 2. "**Sign in or create account**"
 3. "**New App**"
 4. "**New application**"
@@ -19,7 +19,7 @@
    3. "*is it raining?*"
    4. "*what's the weather outside?*"
 10. Click "**Train**"
-11. **Publish**
+11. Go to **Publish** and publish your model as a web service
 12. Go to **App Settings**
     1. Copy **App Id**
 13. Go to Account Settings
