@@ -27,6 +27,8 @@
 
 ## Build the bot
 
+First download the [emulator](https://emulator.botframework.com/) and [Visual Studio Template](http://aka.ms/bf-bc-vstemplate).
+
 1. Start Visual Studio
 2. Click *File* > *New Project* > *Visual C#* > Bot...
 3. Create new folder *Dialogs*
